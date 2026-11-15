@@ -1,0 +1,7 @@
+test-state-*
+test-scores-*
+test-env-*.log
+test-entry-*.log
+test-score-*.txt
+__pycache__/
+*.pyc
